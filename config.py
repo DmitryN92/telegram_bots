@@ -1,1 +1,1 @@
-TG_TOKEN="1577022063:AAGEp_yWbc1T0k3nrmaK4arpMn6Jv7nH8UQ"
+TG_TOKEN="insert_token_here"
